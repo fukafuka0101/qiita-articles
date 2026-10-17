@@ -14,6 +14,6 @@ posting_campaign_uuid: null
 agreed_posting_campaign_term: false
 ---
 
-これは `articles`（Private）リポジトリから GitHub Actions 経由で自動同期されたテスト記事です。
+これは`articles`（Private）リポジトリからGitHub Actions経由で自動同期されたテスト記事です。
 
 問題なく表示されていれば、自動同期の仕組みが正常に動作しています。
